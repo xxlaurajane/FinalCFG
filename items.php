@@ -20,7 +20,7 @@
 
 <div class="container-fluid bg-4 text-center">
 	
-  <a href="https://playground.eca.ed.ac.uk/~s1772368/coaster/test.html"> 
+  <a href="https://playground.eca.ed.ac.uk/~s1772368/coaster/index.html"> 
     <img src="ccbannersm.png" class="img-fluid" style="display:inline" alt="Coaster Creds"/>
   </a>
 
