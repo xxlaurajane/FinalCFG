@@ -18,7 +18,7 @@
 
 <div>
 
-<div class="container-fluid bg-3 text-center">
+<div class="container-fluid bg-4 text-center">
 	
   <a href="https://playground.eca.ed.ac.uk/~s1772368/coaster/test.html"> 
     <img src="ccbannersm.png" class="img-fluid" style="display:inline" alt="Coaster Creds"/>
@@ -27,7 +27,7 @@
 </div>
 
 <div class="container-fluid bg-4">
-   <br />
+   
    <h2 align="center">Search All Coasters</h2><br />
    <div class="form-group">
     <div class="input-group">
