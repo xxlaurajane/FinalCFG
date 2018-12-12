@@ -27,7 +27,7 @@
 </div>
 
 
-<div class="container-fluid bg-4">
+<div class="container-fluid bg-2">
    
    <h3 align="center">Search All Coasters</h3><br />
    <div class="form-group">

@@ -32,11 +32,12 @@ if(mysqli_num_rows($result) > 0)
 			<div class="card">
 			  <img class="card-img-top" src="'.$row["image"].'" alt="Card image">
 			  <div class="card-body">
+			  <font color="teal">
 				<h3 class="card-title">'.$row["name"].'</h5>
 				<h4 class="card-title">'.$row["manufacturer"].'</h5>
 				<h5 class="card-title">'.$row["model"].'</h5>
 				<h5 class="card-title">'.$row["type"].'</h5>
-				
+				</font>
 				<a href="" class="btn btn-dark btn-block">Credit me</a>
 			  </div>
 			</div>

@@ -31,10 +31,14 @@
       padding-bottom: 70px;
   }
 
+  
   .card-body {
-	  background-color: #008080;
+	  background-color: #ffffff;
   }
   
+    .card {
+	  background-color: #ffffff;
+  }
 header {
   position: relative;
   background-color: black;
