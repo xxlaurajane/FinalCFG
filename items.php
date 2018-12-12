@@ -15,7 +15,7 @@
   
   <link rel="stylesheet" type="text/css" href="style.css">
 </head>
-
+<body>
 <div>
 
 <div class="container-fluid bg-4 text-center">
@@ -26,9 +26,10 @@
 
 </div>
 
+
 <div class="container-fluid bg-4">
    
-   <h2 align="center">Search All Coasters</h2><br />
+   <h3 align="center">Search All Coasters</h3><br />
    <div class="form-group">
     <div class="input-group">
      <span class="input-group-addon"></span>
@@ -44,6 +45,7 @@
 
 	   
 </div>
+
 <script>
 $(document).ready(function(){
 
